@@ -1,3 +1,1 @@
-# LoginRegister_Project
-Login and Registration System in C++ 
-This program allows users to register and login using a simple text file for storage.
+This is a simple C++ console-based user management system that allows users to register, log in, update their username or password, and manage personal text files. User credentials are stored in a plain user.txt file, and each user has a separate file to save personal notes. The system ensures usernames are unique and passwords are at least 3 characters long.
